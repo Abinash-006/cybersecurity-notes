@@ -42,4 +42,3 @@ example
           64 bytes from lhr48s21-in-f14.1e100.net (142.250.186.46): icmp_seq=3 ttl=117 time=16.9 ms
           Request timeout for icmp_seq 4
 
-          | cut -d " " -t 4 output: The command uses the space delimiter to select the 4th field from each of the remaining lines
